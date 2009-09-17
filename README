@@ -1,3 +1,6 @@
+Extracted foreign key module and blew away everything else
+
+README for full ar-extensions:
 LICENSE
 ----------
 This is licensed under the ruby license. 
